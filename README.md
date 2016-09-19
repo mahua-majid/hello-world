@@ -1,3 +1,3 @@
 # hello-world
-My first Repository
+My first Repository.
 Now i add some text.
